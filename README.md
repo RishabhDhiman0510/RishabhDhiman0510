@@ -1,5 +1,5 @@
 <!-- BANNER: Upload the pixel art image to your repo at assets/banner.png and this line will display it -->
-<img src="<img width="1920" height="732" alt="Image" src="https://github.com/user-attachments/assets/2145e348-0db4-40a0-a9dd-7ff54e30bb67" />" width="100%" alt="banner"/>
+<img width="1920" height="732" alt="Image" src="https://github.com/user-attachments/assets/2145e348-0db4-40a0-a9dd-7ff54e30bb67" />
 
 <div align="center">
 
