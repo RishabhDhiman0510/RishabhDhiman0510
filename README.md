@@ -1,15 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishabh%20Dhiman&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Backend%20Systems&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<!-- BANNER: Upload the pixel art image to your repo at assets/banner.png and this line will display it -->
+<img src="./assets/banner.png" width="100%" alt="banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🤖+Fine-tuning+LLMs+%7C+RAG+Pipelines+%7C+GenAI;⚡+Intel+Intern+→+222.6+FPS+across+15+GPU+Streams;🎯+69%25+Throughput+Gain+%7C+Adopted+in+3+Prod+Systems;🏆+1st+Place+%7C+EDU+Chain+Regional+Hackathon;🚀+Open+to+ML+Engineer+%7C+SDE+%7C+AI%2FGenAI+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=🤖+LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+GenAI;☕+Java+Developer+%7C+Backend+Systems+Engineer;⚡+Intel+Intern+%7C+Real-time+GPU+Video+Analytics;🏆+1st+Place+%7C+EDU+Chain+Regional+Hackathon;🚀+Open+to+SDE+%7C+ML+Engineer+%7C+AI%2FGenAI+Roles)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Dhiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dhiman-rd10)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Velocity9-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Velocity9/)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-rishabhdhiman10-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhdhiman10@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-RishabhDhiman0510-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabhDhiman0510)
+[![GitHub](https://img.shields.io/badge/GitHub-RishabhDhiman0510-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabhDhiman0510)
 
 <br/>
 
@@ -19,33 +20,42 @@
 
 ---
 
-## 🧠 About Me
+## ☕ `RishabhDhiman.java`
 
-```yaml
-👤  Name        : Rishabh Dhiman
-📍  Location    : New Delhi, India
-🎓  Education   : B.Tech CSE @ BVPCOE, GGSIPU  |  CGPA: 8.9  |  Graduating Aug 2026
-💼  Internship  : AI/ML Research Intern @ Intel Corporation
-🔬  Focus       : LLM Fine-tuning · RAG Pipelines · GenAI · Backend Systems
-🏆  Hackathon   : 1st Place  —  EDU Chain Regional Hackathon
-🌱  Currently   : Building multimodal deep learning systems (EEG + MRI fusion)
-📬  Status      : Open to SDE | ML Engineer | AI/GenAI roles in Delhi/NCR & Remote
+```java
+public class RishabhDhiman {
+
+    String   name       = "Rishabh Dhiman";
+    String   location   = "New Delhi, India 📍";
+    String   education  = "B.Tech CSE @ BVPCOE, GGSIPU  |  CGPA: 8.9  |  2026";
+    String   internship = "AI/ML Research Intern @ Intel Corporation 💼";
+    String[] roles      = { "ML Engineer", "Java Developer", "GenAI Builder", "SDE" };
+    String   hackathon  = "🥇 1st Place — EDU Chain Regional Hackathon";
+    String   status     = "Open to SDE | ML Engineer | AI/GenAI — Delhi/NCR & Remote";
+
+    void introduce() {
+        System.out.println("👋 Hey! I'm " + name + ", nice to meet you.");
+        System.out.println("🔬 I build LLM pipelines, fine-tune models & ship production AI.");
+        System.out.println("📬 " + status);
+    }
+}
 ```
 
 ---
 
-## ⚡ Intel Internship — Production Impact
+## 🏅 Achievements & Recognition
 
 <div align="center">
 
-| Metric | Result |
-|---|---|
-| 🚀 GPU Stream Throughput | **222.6 FPS** across **15 concurrent streams** |
-| 📈 Performance Gain | **69% improvement** over CPU baseline |
-| 💡 CPU Reduction via NPU | **85% reduction** @ 32.7 FPS per-stream |
-| ✅ Production Adoption | Findings adopted in **3 production systems** |
-
-*Stack: Intel DL Streamer · OpenVINO · H.264/H.265 · SSD-MobileNet · GStreamer*
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| 🥇 | **1st Place** — EDU Chain Regional Hackathon |
+| ⚡ | **Intel Intern** — GPU video analytics pipeline shipped to 3 production systems |
+| 🎓 | **CGPA 8.9** — B.Tech CSE, Guru Gobind Singh Indraprastha University |
+| 👨‍🏫 | **Technical Head, BVPCSI** — Mentored 100+ students in ML & competitive programming |
+| 🔬 | **R&D Head, Enactus** — Led cross-disciplinary team; 2 research outputs delivered |
+| 📜 | **Dell × Intel AI-ML Certification** — Machine Learning Intern Training |
+| ☕ | **Coding Blocks** — Java Programming + Data Science & Machine Learning |
 
 </div>
 
@@ -88,48 +98,44 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Finvisary — Financial AI Chatbot](https://github.com/RishabhDhiman0510/Finvisary-chatbot)
-Fine-tuned **DeepSeek R1** on **50K+ proprietary Q&A pairs**, achieving a **30% relevance improvement** (perplexity: 6.46). Deployed with a responsive web interface delivering **sub-200ms** query latency for real-time financial advisory.
+### 🤖 [Finvisary — Financial AI](https://github.com/RishabhDhiman0510/Finvisary-chatbot)
+Fine-tuned **DeepSeek R1** on **50K+ Q&A pairs** for financial advisory. 30% relevance gain (perplexity: 6.46), sub-200ms response latency.
 
-`DeepSeek R1` `HuggingFace` `MongoDB` `LLM Fine-tuning`
+`DeepSeek R1` `HuggingFace` `MongoDB` `Fine-tuning`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 MediBot — Medical Consultation Chatbot
-Fine-tuned a **7B-parameter** model via **QLoRA + 4-bit quantization**, updating only **0.6M parameters**. RAG pipeline over **62,562 curated medical documents** via FAISS; achieved **BERTScore F1: 0.76** across 44 clinical queries.
+### 🏥 MediBot — Medical Chatbot
+**7B-param** model fine-tuned with **QLoRA**, RAG over **62K medical docs** via FAISS. BERTScore F1: **0.76** across 44 clinical queries.
 
-`PyTorch` `FAISS` `QLoRA` `RAG` `4-bit Quantization`
+`PyTorch` `FAISS` `QLoRA` `RAG` `4-bit Quant`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 [EchoLock — Voice Biometric Auth](https://github.com/RishabhDhiman0510/EchoLock)
-Voice-based encryption system combining **offline speech recognition (Vosk)** with **Azure cloud speaker verification**, achieving **90% authentication accuracy** as a biometric security layer.
+### 🔐 [EchoLock — Voice Auth](https://github.com/RishabhDhiman0510/EchoLock)
+Voice biometric system — Vosk offline STT + Azure speaker verification. **90% authentication accuracy**.
 
-`Python` `Vosk` `Azure Cognitive Services` `Biometrics`
+`Python` `Vosk` `Azure Cognitive Services`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 [Language Detection Model](https://github.com/RishabhDhiman0510/Language-Detection-Model)
-Deep learning NLP model for multi-language text classification using **neural networks and NLP techniques**. Identifies the language of input text with high accuracy across diverse scripts and datasets.
+### 🌐 [Language Detector](https://github.com/RishabhDhiman0510/Language-Detection-Model)
+Deep learning NLP model classifying text across multiple languages using neural networks.
 
-`Python` `Deep Learning` `NLP` `Neural Networks`
+`Python` `NLP` `Deep Learning` `Neural Networks`
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -137,23 +143,12 @@ Deep learning NLP model for multi-language text classification using **neural ne
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RishabhDhiman0510&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E2E8F0&ring_color=7C3AED" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhDhiman0510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RishabhDhiman0510&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E2E8F0&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhDhiman0510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8&cache_seconds=1800" width="49%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=RishabhDhiman0510&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8" width="55%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RishabhDhiman0510&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=RishabhDhiman0510&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F472B6&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8" width="60%"/>
 
 </div>
 
@@ -169,23 +164,6 @@ Deep learning NLP model for multi-language text classification using **neural ne
 
 ---
 
-## 🏅 Achievements & Recognition
-
-<div align="center">
-
-| 🥇 | **1st Place** — EDU Chain Regional Hackathon |
-|---|---|
-| ⚡ | **Intel Production Impact** — Real-time pipeline adopted in 3 production systems |
-| 🎓 | **CGPA 8.9** — B.Tech CSE, Guru Gobind Singh Indraprastha University |
-| 👨‍🏫 | **Technical Head, BVPCSI** — Mentored 100+ students in ML & competitive programming |
-| 🔬 | **R&D Head, Enactus** — Led cross-disciplinary team delivering 2 research outputs |
-| 📜 | **Dell-Intel AI-ML Certification** — Machine Learning Intern Training |
-| ☕ | **Coding Blocks** — Java Programming + Data Science & Machine Learning |
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -196,15 +174,21 @@ Deep learning NLP model for multi-language text classification using **neural ne
 
 ---
 
+## 💼 Intel Internship
+
+> Real-time multi-stream video analytics pipeline — **Intel DL Streamer + OpenVINO** — **222.6 FPS / 15 concurrent GPU streams**, 69% throughput gain over CPU, NPU-accelerated (85% CPU reduction). Shipped to **3 production systems**.
+
+---
+
 <div align="center">
 
-### 💬 Let's Connect & Build Something Impactful
+### 💬 Let's Build Something
 
-*Open to ML Engineer · SDE · AI/GenAI opportunities in Delhi/NCR & Remote*
+*Open to ML Engineer · SDE · AI/GenAI — Delhi/NCR & Remote*
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dhiman-rd10)
-&nbsp;
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhdhiman10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dhiman-rd10)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhdhiman10@gmail.com)
 
 <br/>
 
