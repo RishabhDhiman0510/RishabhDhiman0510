@@ -143,8 +143,6 @@ Deep learning NLP model classifying text across multiple languages using neural 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RishabhDhiman0510&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=E2E8F0&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhDhiman0510&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8&cache_seconds=1800" width="49%"/>
 
 <br/><br/>
 
