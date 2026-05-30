@@ -110,7 +110,7 @@ Fine-tuned **DeepSeek R1** on **50K+ Q&A pairs** for financial advisory. 30% rel
 </td>
 <td width="50%" valign="top">
 
-### 🏥 MediBot — Medical Chatbot
+### 🏥 [MediBot — Medical LLM](https://github.com/RishabhDhiman0510/Medical-LLM-with-RAG)
 **7B-param** model fine-tuned with **QLoRA**, RAG over **62K medical docs** via FAISS. BERTScore F1: **0.76** across 44 clinical queries.
 
 `PyTorch` `FAISS` `QLoRA` `RAG` `4-bit Quant`
